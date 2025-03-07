@@ -7,11 +7,11 @@ Each of these subdirectories is a separate project:
 
 | Project Name | Description |
 |-------------|------------|
-| [Liberty-Microprofile-Rest-Service-Example](Liberty-Microprofile-Rest-Service-Example) | REST service using Liberty and MicroProfile |
-| [Node-Express-Example](Node-Express-Example) | Example REST service using Node.js with Express |
-| [Quarkus-Microprofile-REST-service-example](Quarkus-Microprofile-REST-service-example) | RESTful service with Quarkus and MicroProfile |
-| [Simple-Spring-Boot-REST-Service-Example](Simple-Spring-Boot-REST-Service-Example) | REST API using Spring Boot |
-| [simple-node-rest-example](simple-node-rest-example) | Another example of a simple Node.js REST service |
+| [Liberty-Microprofile-Rest-Service-Example](https://github.com/Dimitris-Kaler/Liberty-Microprofile-Rest-Service-Example) | REST service using Liberty and MicroProfile |
+| [Node-Express-Example](https://github.com/Dimitris-Kaler/Node-Express-Example) | Example REST service using Node.js with Express |
+| [Quarkus-Microprofile-REST-service-example](https://github.com/Dimitris-Kaler/Quarkus-Microprofile-REST-service-example) | RESTful service with Quarkus and MicroProfile |
+| [Simple-Spring-Boot-REST-Service-Example](https://github.com/Dimitris-Kaler/Simple-Spring-Boot-REST-Service-Example) | REST API using Spring Boot |
+| [simple-node-rest-example](https://github.com/Dimitris-Kaler/simple-node-rest-example) | Another example of a simple Node.js REST service |
 
 ---
 
